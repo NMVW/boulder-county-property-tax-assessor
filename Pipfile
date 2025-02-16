@@ -1,0 +1,17 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+ipykernel = "==6.28.0"
+python-dotenv = "==1.0.0"
+pandas = "==2.2.1"
+matplotlib = "==3.8.3"
+scikit-learn = "==1.4.1.post1"
+
+[dev-packages]
+
+[requires]
+python_version = "3.11"
+python_full_version = "3.11.11"
