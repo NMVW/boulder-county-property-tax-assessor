@@ -1,21 +1,51 @@
-MIT License
+Mozilla Public License Version 2.0 (MPL-2)
+=============================================
 
-Copyright (c) 2025 Nick Vinson
+1. Definitions
+-------------
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+* "Contributor" means each entity that creates and/or contributes to the Covered Software.
+* "Covered Software" means the Mozilla Public License Version 2.0 software distributed by the Contributor.
+* "Licensable" means having the right to grant, to the maximum extent possible, whether at an affordable royalty or for free, all rights granted herein.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+2. Copyrights
+-------------
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Copyright (C) Nick Vinson 2025. All rights reserved.
+
+3. License Grant
+----------------
+
+The Contributor hereby grants You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright license to:
+
+a. reproduce and distribute the Covered Software;
+b. create derivative works based on the Covered Software; and
+c. make, use, import and otherwise transfer the Covered Software.
+
+4. Conditions & Restrictions
+-----------------------------
+
+You may not exercise any of the rights granted in Section 3(a), (b) or (c) if You fail to comply with all applicable terms and conditions stated in this License.
+
+The Covered Software is provided "AS IS" WITHOUT WARRANTY OF ANY KIND, either express or implied, including, without limitation, the warranties of merchantability, fitness for a particular purpose, non-infringement, and any warranty
+of accuracy or completeness. In no event shall the authors or copyright holders be liable for any claim, damages, or other liability arising from, out of, or in connection with Your use of the Covered Software.
+
+5. Additional Terms
+-------------------
+
+Nick Vinson reserves all rights to modify, change, or revoke this License at any time without notice. You are encouraged to contact Nick Vinson (nmvinson@gmail.com) for clarification on any specific conditions or restrictions
+related to the use of the Covered Software.
+
+TERMS OF USE:
+---------------
+
+This project is provided free and open-source for non-commercial use and modification. By using this software, you acknowledge that:
+
+* You will not "black box" or repurpose the code in a manner that allows unauthorized parties to charge government authorities or other entities for services related to this software.
+* You will respect and comply with all applicable laws and regulations when utilizing this project.
+
+To request explicit permission to use this project for commercial purposes, please contact:
+
+nmvinson@gmail.com
+
+This License does not grant any rights to the trademarks of Nick Vinson or Mozilla. This License shall be governed by and construed in accordance with the laws of your jurisdiction.
