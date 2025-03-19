@@ -2,6 +2,8 @@
 
 Boulder County Tax Assessor machine learning algorithmic evaluation
 
+[GPP Milestone (Mar 19)](https://www.loom.com/share/612fed132fd9456d97f7b31a848e3d8e?sid=69ba88a9-a29f-4a0e-9c22-9c09f8bfb8fa)
+
 ## Tax-paying Resident Investigation
 
 In a world increasingly influenced by machine learned systems, constituents have a right to transparency behind the algorithms that impact them and their families.
