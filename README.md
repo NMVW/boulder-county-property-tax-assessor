@@ -2,7 +2,14 @@
 
 Boulder County Tax Assessor machine learning algorithmic evaluation
 
-[GPP Milestone (Mar 19)](https://www.loom.com/share/612fed132fd9456d97f7b31a848e3d8e?sid=69ba88a9-a29f-4a0e-9c22-9c09f8bfb8fa)
+<div>
+    <a href="https://www.loom.com/share/612fed132fd9456d97f7b31a848e3d8e">
+      <p>GPP Prop Tax — Deep Atlas - 19 March 2025 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/612fed132fd9456d97f7b31a848e3d8e">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/612fed132fd9456d97f7b31a848e3d8e-aa8f731ad7d99813-full-play.gif">
+    </a>
+  </div>
 
 ## Tax-paying Resident Investigation
 
